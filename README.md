@@ -3,7 +3,7 @@
 👋 Hi there! I'm [xisxus](https://github.com/xisxus), a passionate software developer who loves building innovative solutions and exploring new technologies.
 
 ## 💡 Skills
-- **Languages**: C#, Python, JavaScript
+- **Languages**: C#, JavaScript
 - **Frameworks**: .NET, React, Node.js
 - **Tools**: Git, Docker, Azure
 
