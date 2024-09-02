@@ -4,7 +4,7 @@
 
 ## 💡 Skills
 - **Languages**: C#, JavaScript
-- **Frameworks**: .NET, React, Node.js
+- **Frameworks**: .NET, React, Angular, Node.js
 - **Tools**: Git, Docker, Azure
 
 ## 📫 Contact Me
